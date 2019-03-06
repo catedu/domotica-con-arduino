@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introducción](README.md)
+* [Pensamiento computacional](chapter1.md)
+
