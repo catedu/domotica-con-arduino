@@ -7,7 +7,6 @@ Tienes que ver y entender estas páginas:
  * ¿entradas y salidas?
  * ¿Dónde se conectan los sensores a las entradas digitales o analógicas? 
  * ¿Qué utilidad tienen las entradas digitales?
- * ¿Qué son las salidas digigales etiquetadas con PWM (~)?
 * [Hardware de Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/hardware.html)
   * Placa Arduino
   * Entradas y salidas
@@ -17,6 +16,9 @@ Tienes que ver y entender estas páginas:
   * Utilizando una fuente de alimentación externa conectada al jack de Arduino (fuente de voltaje, adaptador de corriente, batería o portapilas)
 * [Entradas analógicas](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/conexiones_analgicas.html)
   * Para una señal de entrada desde 0V a 5V el Arduino lo interpreta desde 0 a 1023.
+* [¿Qué son las salidas digigales etiquetadas con PWM (~)?](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html)
+  * Aunque no tiene salidas analógicas, podemos "simular" con estas salidas digitales valores medios entre 0V y 5V.
+
  
  
  ![](/assets/placaarduino.jpg)
