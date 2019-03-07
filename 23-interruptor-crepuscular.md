@@ -1,4 +1,11 @@
 # 2.3 INTERRUPTOR CREPUSCULAR
+##Conocimientos previos
+%accordion%SENSOR DE LUZ LDR%accordion%
+###SENSOR DE LUZ LDR
+
+
+%/accordion%
+
 ##Objetivo
 * Cuando el sensor LDR detecte oscuridad
     * El led RGB se enciende verde
