@@ -4,6 +4,7 @@ Utilizaremos las posibilidades del **Arduino **para crear esta maqueta de domót
 * Gráfica con bloques para primaria.
 * Textual por código para secundaria.
 
+![](/assets/smarthome.jpg)
 <a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Vector de fondo creado por macrovector - www.freepik.es</a>
 
 
