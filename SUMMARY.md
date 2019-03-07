@@ -1,14 +1,20 @@
 # Summary
 
 * [Introducción](README.md)
-* [1.2.- ¿Qué tengo que saber para hacer este curso?](12-que-tengo-que-saber-para-hacer-este-curso.md)
-* [1.3 Kit de préstamo de CATEDU](13-kit-de-prestamo-de-catedu.md)
-* [2.1 Programación mBlock](21-programacion-mblock.md)
-* [2.2 Preparando mBlck y Arduino](22-preparando-mblck-y-arduino.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
 * [1.1.- ¿Qué es la Domótica con Arduino?](que-es-la-domotica-con-arduino.md)
+* [1.2.- ¿Qué tengo que saber para hacer este curso?](12-que-tengo-que-saber-para-hacer-este-curso.md)
+* [1.3 Kit de préstamo de CATEDU](13-kit-de-prestamo-de-catedu.md)
+
+## 2 Programación en bloques mBlock
+
+* [2.1 Programación mBlock](21-programacion-mblock.md)
+* [2.2 Preparando mBlock y Arduino](22-preparando-mblck-y-arduino.md)
+
+
+## 3 Programación en código
 
 ## 4. Para saber más...
 
