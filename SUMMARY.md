@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 * [2.3 INTERRUPTOR CREPUSCULAR](23-interruptor-crepuscular.md)
+* [2.4 Apertura puerta](24-apertura-puerta.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
