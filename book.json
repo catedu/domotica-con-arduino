@@ -1,0 +1,19 @@
+{
+	"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer"],
+	"language": "es",
+	"variables": {
+		"title": "Google Classroom",
+		"authors": [
+			"Javier Quintana Peiró"
+		],
+		"collaborators": [
+			{ "name": "_______", "edited": "___________" }
+		]
+	},
+	"pluginsConfig": {
+		"localized-footer": {
+			"hline": true,
+			"filename": "./FOOTER.md"
+		}
+	}
+}
