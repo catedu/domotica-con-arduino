@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [1.2.- ¿Qué tengo que saber para hacer este curso?](12-que-tengo-que-saber-para-hacer-este-curso.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -10,5 +11,4 @@
 
 * [4.1- Pensamiento computacional](chapter1.md)
 * [4.2 Grupo Robótica Educativa](grupo-robotica-educativa.md)
-
 
