@@ -8,5 +8,6 @@ Nuestra propuesta cuesta alrededor de 30€ y sinceramente es muy completo y má
 
 La descripción de cada componente lo tienes aquí:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-7pY6BW0pltkIZkoov3Cv5LBAZ1dCgRb7r65_tC0CdvHTOhWjQgtv8awlEGuSyWzWLA_GCj8l2nkM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-7pY6BW0pltkIZkoov3Cv5LBAZ1dCgRb7r65_tC0CdvHTOhWjQgtv8awlEGuSyWzWLA_GCj8l2nkM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 
