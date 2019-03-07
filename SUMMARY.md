@@ -4,6 +4,7 @@
 * [1.2.- ¿Qué tengo que saber para hacer este curso?](12-que-tengo-que-saber-para-hacer-este-curso.md)
 * [1.3 Kit de préstamo de CATEDU](13-kit-de-prestamo-de-catedu.md)
 * [2.1 Programación mBlock](21-programacion-mblock.md)
+* 2.2 Preparando mBlck y Arduino
 
 ## 1. Fundamentos Domótica con Arduino
 
