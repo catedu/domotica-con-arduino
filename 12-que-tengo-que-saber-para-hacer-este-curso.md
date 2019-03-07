@@ -15,6 +15,8 @@ Tienes que ver y entender estas páginas:
 * [Alimentación eléctrica de Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/alimentacin_elctrica_de_arduino.html)
   * Mediante el cable USB conectado al ordenador
   * Utilizando una fuente de alimentación externa conectada al jack de Arduino (fuente de voltaje, adaptador de corriente, batería o portapilas)
+* [Entradas analógicas](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/conexiones_analgicas.html)
+  * Para una señal de entrada desde 0V a 5V el Arduino lo interpreta desde 0 a 1023.
  
  
  ![](/assets/placaarduino.jpg)
