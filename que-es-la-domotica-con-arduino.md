@@ -1,6 +1,6 @@
 #1.1 ¿Qué es la domótica con Arduino?
 
-Arduino es una placa electrónica abierta para la creación de prototipos, muy flexible por lo que tenemos distintas propuestas en nuestra hoja de ruta de [Pensamiento computacional](/chapter1.md)
+Arduino es una placa electrónica abierta para la creación de prototipos, muy flexible por lo tanto lo tenemos en varias propuestas de nuestra hoja de ruta de [Pensamiento computacional](/chapter1.md)
 
 * Utilización del Arduino con una Shield para facilitar la electrónica
     * [Nuestra propuesta EchidnaShield con programación por bloques](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/)
