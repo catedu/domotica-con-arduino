@@ -6,7 +6,9 @@ Yo no sé qué tiene este componente que llama la atención a los chavales
 
 ![](/assets/joisti.jpg)
 
-Así que vamos a aprovecharlo: Tiene 2 potenciómetros según los ejes X e Y y un interruptor central. Las tres salidas son analógicas
+Así que vamos a aprovecharlo: Tiene 2 potenciómetros según los ejes X e Y y un interruptor central. Las tres salidas son analógicas.
+
+Si quieres saber más de este componente visita [esta página.](https://www.luisllamas.es/arduino-joystick/)
 
 %/accordion%
 
