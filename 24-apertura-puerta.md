@@ -3,7 +3,6 @@
 ##2.4.1 Conocimientos previos
 
 %accordion%SERVO%accordion%
-
 ###2.4.1.1 SERVOMOTORES
 Visita [esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_1_testea_tu_servo.html) para que veas dos vídeos y entiendas la diferencia entre:
 * Servos convencionales
@@ -20,7 +19,6 @@ Si quieres saber más sobre servos te aconsejamos visitar [esta página.](https:
 %/accordion%
 
 %accordion%INTERRUPTOR TÁCTIL%accordion%
-
 ###2.4.1.2 Interruptor táctil
 
 ![](/assets/2019-03-08 13_15_12-1.3 Kit de préstamo de CATEDU · DOMOTICA CON ARDUINO.jpg)
@@ -30,6 +28,7 @@ Si quieres saber más sobre servos te aconsejamos visitar [esta página.](https:
 No tiene mucho misterio: detecta una acumulación de carga y dispara un pulso positivo.
 
 %accordion%BUZZER ACTIVO%accordion%
+###2.4.1.3 Buzzer activo
 
 ![](/assets/buzzer.jpg)
 
@@ -60,3 +59,11 @@ Si quieres saber más de este componente visita [esta página](https://www.luisl
 {% youtube %}https://youtu.be/bBA3GEhLmRg{% endyoutube%}
 
 ##2.4.5 Solución
+
+El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
+
+![](/assets/codigollave.jpg)
+
+El objeto **puerta** tiene este sencillo programa:
+
+![](/assets/codigopuerta.jpg)

@@ -55,4 +55,5 @@ En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) pue
 ## 2.3.5 Solución
 
 El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
+
 ![](/assets/23interruptorcrepuscular.jpg)
