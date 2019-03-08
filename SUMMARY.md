@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 * [2.5 ALARMA AGUA](25-alarma-agua.md)
+* [2.6 JOYSTICK](26-joystick.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
