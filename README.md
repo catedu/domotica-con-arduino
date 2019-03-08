@@ -10,6 +10,7 @@ Utilizaremos las posibilidades del **Arduino **para crear esta maqueta de domót
     * Para la parte de programación en código: [Código Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
 
 ![](/assets/smarthome.jpg)
+
 <a href="https://www.freepik.es/fotos-vectores-gratis/fondo">Vector de fondo creado por macrovector - www.freepik.es</a>
 
 
