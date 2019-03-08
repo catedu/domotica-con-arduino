@@ -19,11 +19,6 @@ Este módulo tiene 4 pines que podemos proporcionar valores analógicos desde 0V
 
 Pines B = Blue G = Green R = Red (-) = GND
 
-/*
-Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM (~)para simular tensiones variables de salida ¿no sabes lo que es PWM (~)? eso es que no te has leído [esto](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html).
-
-*/
-
 ![](/assets/rgbkeyes.jpg)
 
 De momento conectaremos el pin G (Green) a una salida digital normal (pin 7), luego sólo se puede encender o apagar.
