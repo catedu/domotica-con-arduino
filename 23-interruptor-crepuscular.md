@@ -12,7 +12,7 @@ El LDR es una resistencia que varía su valor con la luz, cuanto más **OSCURO**
 
 %/accordion%
 
-%accordion%MODULOLED RGB%accordion%
+%accordion%MODULO LED RGB%accordion%
 
 ###2.3.1.2 Módulo LED RGB Keyes
 Este módulo tiene 4 pines que podemos proporcionar valores analógicos desde 0V a 5V para conseguir diferentes colores:

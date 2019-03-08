@@ -1,13 +1,24 @@
 #2.4 Apertura puerta
-##Objetivo
+##2.4.1 Conocimientos previos
 
-* Cuando se pulse el interruptor táctil
+%accordion%Solución%accordion%
+%/accordion%
+
+
+##2.4.2 Objetivo
+
+* Cuando se pulse el interruptor táctil (sería como una llave táctil)
     * Se abre la puerta
-    * Suena el buzzer un pulso corto
 * Al cabo de 5 segundos, tiempo suficiente para entrar
-    * Se avisa que la puerta se va a cerrar con 4 pulsos buzzer
+    * Se avisa que la puerta se va a cerrar con 3 pulsos buzzer y cambiando el color el sprite del Panda de mBlock
     * Se cierra la puerta
     
-##Esquema
+##2.4.3 Esquema
 
 * El servo 
+
+##2.4.4 Video
+
+{% youtube %}https://youtu.be/bBA3GEhLmRg{% endyoutube%}
+
+##2.4.5 Solución
