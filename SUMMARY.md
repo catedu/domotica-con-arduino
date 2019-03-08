@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [2.5 ALARMA AGUA](25-alarma-agua.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -14,8 +15,6 @@
 * [2.2 Preparando mBlock y Arduino](22-preparando-mblck-y-arduino.md)
 * [2.3 INTERRUPTOR CREPUSCULAR](23-interruptor-crepuscular.md)
 * [2.4 APERTURA PUERTA](24-apertura-puerta.md)
-
-
 
 ## 3 Programación en código
 
