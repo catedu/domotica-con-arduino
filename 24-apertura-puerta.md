@@ -3,6 +3,7 @@
 ##2.4.1 Conocimientos previos
 
 %accordion%SERVO%accordion%
+
 ###2.4.1.1 SERVOMOTORES
 Visita [esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_1_testea_tu_servo.html) para que veas dos vídeos y entiendas la diferencia entre:
 * Servos convencionales
@@ -19,9 +20,26 @@ Si quieres saber más sobre servos te aconsejamos visitar [esta página.](https:
 %/accordion%
 
 %accordion%INTERRUPTOR TÁCTIL%accordion%
+
+###2.4.1.2 Interruptor táctil
+
+![](/assets/2019-03-08 13_15_12-1.3 Kit de préstamo de CATEDU · DOMOTICA CON ARDUINO.jpg)
 %/accordion%
 
+No tiene mucho misterio: detecta una acumulación de carga y dispara un pulso positivo.
+
 %accordion%BUZZER ACTIVO%accordion%
+
+![](/assets/buzzer.jpg)
+
+La diferencia con el pasivo es que no es necesario enviarle pulsos para que emita una frecuencia, sólo tenemos que dar la orden y él reproduce un tono.
+
+**Ojo que funciona con lógica negativa** es decir:
+* si queremos que suene tenemos que enviar un LOW.
+* si queremos que no suene tenemos que enviar un HIGH
+
+Si quieres saber más de este componente visita [esta página](https://www.luisllamas.es/arduino-buzzer-activo/)
+
 %/accordion%
 
 
