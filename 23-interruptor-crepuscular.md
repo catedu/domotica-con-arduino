@@ -19,9 +19,16 @@ Este módulo tiene 4 pines que podemos proporcionar valores analógicos desde 0V
 
 Pines B = Blue G = Green R = Red (-) = GND
 
+/*
 Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM (~)para simular tensiones variables de salida ¿no sabes lo que es PWM (~)? eso es que no te has leído [esto](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html).
 
+*/
+
 ![](/assets/rgbkeyes.jpg)
+
+De momento conectaremos el pin G (Green) a una salida digital normal (pin 7), luego sólo se puede encender o apagar.
+
+Más adelante usaremos los colores Blue y Red a salidas PWM
 
 En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) puedes encontrar más detalles de este módulo y un ejemplo curioso de utilización sin cables.
 
@@ -43,8 +50,6 @@ En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) pue
 ##Video
 {% youtube %}https://www.youtube.com/watch?v=c_eyV8aCdvk&feature=youtu.be{% endyoutube%}
 ## Solución
-Aunque lo correcto para encender el color verde habría que utilizar la señal PWM a tope, es lo mismo que poner la señal digital en HIGH, es decir estas dos instrucciones son iguales
 
-![](/assets/2019-03-07 19_53_03-Window.jpg)
 El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
 ![](/assets/23interruptorcrepuscular.jpg)
