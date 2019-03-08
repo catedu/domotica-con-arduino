@@ -9,9 +9,10 @@ El LDR es una resistencia que varía su valor con la luz, cuanto más **OSCURO**
 **Por hardware**: Puedes regular el potenciómetro que tiene el módulo para que produzca el cambio cuando lo desees:
 
 ![](/assets/2019-03-07 19_34_24-Window.jpg)
+
 %/accordion%
 
-%accordion%SENSOR DE LUZ LDR%accordion%
+%accordion%MODULOLED RGB%accordion%
 
 ###2.3.2 Módulo LED RGB Keyes
 Este módulo tiene 4 pines que podemos proporcionar valores analógicos desde 0V a 5V para conseguir diferentes colores:
@@ -23,6 +24,7 @@ Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM 
 ![](/assets/rgbkeyes.jpg)
 
 En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) puedes encontrar más detalles de este módulo y un ejemplo curioso de utilización sin cables.
+
 %/accordion%
 
 ##Objetivo
