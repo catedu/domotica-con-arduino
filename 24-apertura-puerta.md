@@ -23,7 +23,7 @@ Si quieres saber más sobre servos te aconsejamos visitar [esta página.](https:
 
 ![](/assets/2019-03-08 13_15_12-1.3 Kit de préstamo de CATEDU · DOMOTICA CON ARDUINO.jpg)
 
-No tiene mucho misterio: detecta una acumulación de carga y dispara un pulso positivo.
+No tiene mucho misterio: detecta una acumulación de carga y dispara un pulso positivo. Si quieres saber más mira [esta página.](https://www.luisllamas.es/interruptor-touchless-con-arduino-y-sensor-capacitivo/)
 
 %/accordion%
 
