@@ -14,7 +14,7 @@ El LDR es una resistencia que varía su valor con la luz, cuanto más **OSCURO**
 
 %accordion%MODULOLED RGB%accordion%
 
-###2.3.2 Módulo LED RGB Keyes
+###2.3.1.2 Módulo LED RGB Keyes
 Este módulo tiene 4 pines que podemos proporcionar valores analógicos desde 0V a 5V para conseguir diferentes colores:
 
 Pines B = Blue G = Green R = Red (-) = GND
@@ -34,7 +34,7 @@ En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) pue
 
 %/accordion%
 
-##Objetivo
+##2.3.2 Objetivo
 * Cuando el sensor LDR detecte oscuridad
     * El led RGB se enciende verde
     * Cambiamos a fondo tipo "noche"
@@ -42,14 +42,17 @@ En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) pue
     * el led RGB está apagado
     * el fondo es día
 
-##Esquema
+##2.3.3 Esquema
 * El módulo LDR lo conectamos al pin analógico A0 
 * El LED RGB lo conectamos
     * Pin 7 - Green
+![](/assets/esquema1.jpg)
 
-##Video
+##2.3.4 Video
+
 {% youtube %}https://www.youtube.com/watch?v=c_eyV8aCdvk&feature=youtu.be{% endyoutube%}
-## Solución
+
+## 2.3.5 Solución
 
 El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
 ![](/assets/23interruptorcrepuscular.jpg)
