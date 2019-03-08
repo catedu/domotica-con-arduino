@@ -8,7 +8,7 @@ Así que vamos a aprovecharlo: Tiene 2 potenciómetros según los ejes X e Y y u
 
 %/accordion%
 
-%accordion%JOYSTICK%accordion%
+%accordion%SALIDAS PWM%accordion%
 ###2.6.1.2 SALIDAS PWM
 
 Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM (~) para simular tensiones variables de salida. 
