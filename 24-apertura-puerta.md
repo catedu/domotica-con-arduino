@@ -3,6 +3,19 @@
 ##2.4.1 Conocimientos previos
 
 %accordion%SERVO%accordion%
+###2.4.1.1 SERVOMOTORES
+Visita [esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_1_testea_tu_servo.html) para que veas dos vídeos y entiendas la diferencia entre:
+* Servos convencionales
+* Servos de rotación contínua
+
+![](/assets/servo.jpg)
+
+Tranquilo, que el servo que nos interesa es un servo convencional donde simplemente se fija el ángulo con la instrucción en mBlock
+
+![](/assets/instruccionservomblock.jpg)
+
+Si quieres saber más sobre servos te aconsejamos visitar [esta página.](https://www.luisllamas.es/controlar-un-servo-con-arduino/)
+
 %/accordion%
 
 %accordion%INTERRUPTOR TÁCTIL%accordion%
