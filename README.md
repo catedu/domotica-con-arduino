@@ -5,6 +5,7 @@ Utilizaremos las posibilidades del **Arduino **para crear esta maqueta de domót
 * Textual por código para secundaria.
 
 ##Conocimientos previos
+
     * Para la parte de programación en bloques: [Scratch](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
     * Para la parte de programación en código: [Código Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
 
