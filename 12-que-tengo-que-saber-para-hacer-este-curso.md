@@ -1,4 +1,4 @@
-#1.2.- ¿Qué tengo que saber para hacer este curso?
+#1.2.- ¿Qué tengo que saber sobre Arduino?
 
 Tienes que ver y entender estas páginas:
 *  [Información básica sobre Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/informacin_bsica_sobre_arduino.html)
