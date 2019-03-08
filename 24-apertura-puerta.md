@@ -1,7 +1,14 @@
 #2.4 Apertura puerta
+
 ##2.4.1 Conocimientos previos
 
-%accordion%Solución%accordion%
+%accordion%SERVO%accordion%
+%/accordion%
+
+%accordion%INTERRUPTOR TÁCTIL%accordion%
+%/accordion%
+
+%accordion%BUZZER ACTIVO%accordion%
 %/accordion%
 
 
