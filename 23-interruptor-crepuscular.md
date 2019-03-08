@@ -45,7 +45,10 @@ En [esta página](https://tkkrlab.nl/wiki/Arduino_KY-016_3-color_LED_module) pue
 ##2.3.3 Esquema
 * El módulo LDR lo conectamos al pin analógico A0 
 * El LED RGB lo conectamos
-    * Pin 7 - Green
+    * Pin 5 digital - Blue
+    * Pin 6 digital - Red
+    * Pin 7 digital - Green
+
 ![](/assets/esquema1.jpg)
 
 ##2.3.4 Video

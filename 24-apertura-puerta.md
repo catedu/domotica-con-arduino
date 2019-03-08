@@ -52,7 +52,9 @@ Si quieres saber más de este componente visita [esta página](https://www.luisl
     
 ##2.4.3 Esquema
 
-* El servo 
+* pin 2 digital: El interruptor táctil touchless.
+* pin 3 digital: El buzzer activo.
+* pin 4 digital: Servo de la puerta.
 
 ##2.4.4 Video
 
