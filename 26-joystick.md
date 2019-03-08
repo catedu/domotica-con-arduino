@@ -8,6 +8,21 @@ Así que vamos a aprovecharlo: Tiene 2 potenciómetros según los ejes X e Y y u
 
 %/accordion%
 
+%accordion%JOYSTICK%accordion%
+###2.6.1.2 SALIDAS PWM
+
+Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM (~) para simular tensiones variables de salida. 
+
+De esta manera la luz Roja y Azul serán variables pudiendo crear el ambiente que queramos.
+ 
+**¿no sabes lo que es PWM (~)? ** eso es que no te has leído [esto](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html).
+
+![](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/img/Captura_de_pantalla_2015-05-19_a_las_14.18.40.png)
+
+%/accordion%
+
+
+
 ##2.6.2 Objetivo
 * Si muevo en el eje X el Joystick la luz RGB se enciende AZUL proporcionalmente a la inclinación del mando Joystick.
 * Si muevo en el eje Y el Joystick la luz RGB se enciende ROJO proporcionalmente a la inclinación del mando Joystick.
