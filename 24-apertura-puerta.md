@@ -56,6 +56,8 @@ Si quieres saber más de este componente visita [esta página](https://www.luisl
 * pin 3 digital: El buzzer activo.
 * pin 4 digital: Servo de la puerta.
 
+![](/assets/esquema-llave.jpg)
+
 ##2.4.4 Video
 
 {% youtube %}https://youtu.be/bBA3GEhLmRg{% endyoutube%}
