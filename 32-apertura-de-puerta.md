@@ -9,8 +9,30 @@ Esta vez vamos a centrarnos con la apertura de la puerta, dejaremos el LDR para 
     * Se cierra la puerta
 * Por la pantalla del ordenador saldrán mensajes de apertura y cierre
 
-##3.3.2 Esquema
-Es el mismo mostrado en 2.4 APERTURA DE LA PUERTA, pero ahora vamos montando la maqueta:
+##3.3.2 Maqueta
+
+Esta vez en la maqueta ponemos los siguientes elementos
+1. Fijación placa Arduino
+1. Fijación placa Arduino
+1. Interruptor táctil
+1. Buzzer
+1. Servo
+1. Portapilas
+
+![](/assets/maqueta-interruptor1.jpg)
+
+Detalle por delante
+
+1. Interruptor táctil
+1. Fijación servo
+1. Fijación servo
+1. Puerta *si, ya sé, un poco chapuza ¿y qué pasa?  *
+
+![](/assets/maqueta-interruptor2.jpg)
+
+##3.3.3 Esquema de conexiones
+
+Es el mismo mostrado en [2.4 APERTURA DE LA PUERTA](/24-apertura-puerta.md), pero ahora vamos montando la maqueta:
 
 1. Terminales GND
 1. Terminales +5V
@@ -29,11 +51,12 @@ Es el mismo mostrado en 2.4 APERTURA DE LA PUERTA, pero ahora vamos montando la 
 
 ![](/assets/macho-macho.jpg)
 
-##3.3.3 Video
+##3.3.4 Video
 
 {% youtube %}https://youtu.be/uHrZMTJPyRQ{% endyoutube%}
 
-##3.3.4 Código
+##3.3.5 Código
+
 
 
 ```cpp+lineNumbers:true
@@ -53,7 +76,7 @@ Servo myservo;                  //objeto servo
 
 ///////////////////////////////////////VARIABLES
 const int ABIERTO =0;               //ángulo abierto puerta
-const int CERRADO =75;              //ángulo cerrado puerta
+const int CERRADO =75;              //ángulo cerrado puerta, se ha modificado con respecto a 90 que es cierre total pues tropezaba con la pared
 bool PUERTAABIERTA;                 //guardará si está abierto o no
 /////////////////////////////////////FUNCIONES
 void CerrarPuerta();
