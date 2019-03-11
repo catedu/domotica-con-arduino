@@ -30,6 +30,15 @@ Es igual que cuando vimos [2.6 Joystick:](/26-joystick.md)
 1. Otra opción de conectar el terminal GND
 1. Otra opción de conectar +5V
 
+y las demás conexiones igual que antes:
+
+* D5 PWM al Rojo del RGB (tiene que ser PWM)
+* D6 PWM al Azul del RGB (tiene que ser PWM)
+* D7 al Verde del RGB (luego lo utilizaremos)
+* A1 al EJEX JOYSTICK
+* A2 al EJEY JOYSTICK
+* A3 al SWITCH JOYSTICK
+
 ![](/assets/maqueta-joyst2.jpg)
 
 ##3.4.4 Vídeo 
