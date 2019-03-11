@@ -1,10 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
-* [3.1.- Programando en código](31-programando-en-codigo.md)
-* 3.2 Maqueta
-* [3.3 APERTURA DE PUERTA](32-apertura-de-puerta.md)
-* [3.4 JOYSTICK](34-joystick.md)
+
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -22,6 +19,11 @@
 * [2.6 JOYSTICK](26-joystick.md)
 
 ## 3 Programación en código
+
+* [3.1.- Programando en código](31-programando-en-codigo.md)
+* 3.2 Maqueta
+* [3.3 APERTURA DE PUERTA](32-apertura-de-puerta.md)
+* [3.4 JOYSTICK](34-joystick.md)
 
 ## 4. Para saber más...
 
