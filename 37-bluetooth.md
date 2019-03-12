@@ -21,8 +21,8 @@ Controlar nuestra casa con el móvil, para ello vamos a definir los siguientes c
 |-------------|--------|--------|--------------------------------------------------------|
 | Comando 1   | abrir  | A      | abrir la puerta y cierra automáticamente               |
 | Comando 2   | puerta | P      | abrir/cerrar la puerta                                 |
-| Comando 3   | activar| L      | activar la alarma                                      |
-| Comando 4   | stop   | S      | apaga la alarma                                        |
+| Comando 3   | alarma | L      | activar/desactivar la alarma                           |
+| Comando 4   | pit    | T       | hace un pit                                            |
 | Comando 5   | rojo   | R      | enciende luz interior roja                             |
 | Comando 6   | azul   | B      | enciende luz interior azul                             |
 | Comando 7   | apaga  | O      | apaga luces interiores                                 |
