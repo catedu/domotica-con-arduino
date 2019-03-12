@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 * [3.6 FUEGO](36-fuego.md)
+* [3.7 LASER](37-laser.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
