@@ -6,8 +6,9 @@ Utilizaremos las posibilidades del **Arduino **para crear esta maqueta de domót
 
 ##Conocimientos previos
 
-    * Para la parte de programación en bloques: [Scratch](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
-    * Para la parte de programación en código: [Código Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
+Para la parte de programación en bloques: [Scratch](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
+
+Para la parte de programación en código: [Código Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
 
 ![](/assets/smarthome.jpg)
 
