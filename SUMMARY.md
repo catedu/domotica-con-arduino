@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 * [3.6 FUEGO](36-fuego.md)
 * [3.7 LASER](37-laser.md)
-* 3.7 BLUETOOTH
+* [3.7 BLUETOOTH](37-bluetooth.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
