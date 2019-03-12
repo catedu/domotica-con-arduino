@@ -10,4 +10,24 @@ La descripción de cada componente lo tienes aquí:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ-7pY6BW0pltkIZkoov3Cv5LBAZ1dCgRb7r65_tC0CdvHTOhWjQgtv8awlEGuSyWzWLA_GCj8l2nkM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+Y lo iremos conectando a las diferentes entradas y salidas de Arduino:
 
+| COMPONENTE        | CONEXIÓN EN ARDUINO  |
+|-------------------|----------------------|
+|LDR                |    A0                |
+|EJE X JOYSTICK     |    A1                |
+|EJE Y JOYSTICK     |    A2                |
+|SWITCH JOYSTICK    |    A3                |
+|PULSADOR ALARMA    |    A4                |
+|PULSADOR TACTIL    |    D2                |
+|BUZZER ACTIVO      |    D3                |
+|SERVO              |    D4                |
+|RGB AZUL           |    D5                |
+|RGB ROJO           |    D6                |
+|RGB VERDE          |    D7                |
+|SENSOR AGUA        |    D8                |
+|SENSOR LLAMA       |    D9                |
+|LASER              |    D10               |
+|TX DE BLUETOOTH    |    D11               |
+|RX DE BLUETOOTH    |    D12               |
+|LED                |    D13               |
