@@ -13,19 +13,28 @@ Tienes que visitar las siguientes páginas de la [Unidad 4 Comunicaciones con Ar
 
 * [Configuración avanzada](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/configuracion_avanzada.html) pues **nosotros conectaremos el HC-06 en los pines digitales D11 y D12** y no en D0 y D1 pues están ocupados con la comunicación del ordenador.
 
-#3.7.2 Objetivos
+##3.7.2 Objetivos
 
 Controlar nuestra casa con el móvil, para ello vamos a definir los siguientes comandos:
 
-| COMANDO     | VOZ    | DATO   |  descripción               |
-|-------------|--------|--------|----------------------------|
-| Comando 1   | abrir  | A      | abrir la puerta            |
-| Comando 2   | cerrar | C      | cerrar la puerta           |
-| Comando 3   | activar| L      | activar la alarma          |
-| Comando 4   | stop   | S      | apaga la alarma            |
-| Comando 5   | rojo   | R      | enciende luz interior roja |
-| Comando 6   | azul   | B      | enciende luz interior azul |
+| COMANDO     | VOZ    | DATO   |  descripción                                           |
+|-------------|--------|--------|--------------------------------------------------------|
+| Comando 1   | abrir  | A      | abrir la puerta y cierra automáticamente               |
+| Comando 2   | puerta | P      | abrir/cerrar la puerta                                 |
+| Comando 3   | activar| L      | activar la alarma                                      |
+| Comando 4   | stop   | S      | apaga la alarma                                        |
+| Comando 5   | rojo   | R      | enciende luz interior roja                             |
+| Comando 6   | azul   | B      | enciende luz interior azul                             |
+| Comando 7   | apaga  | O      | apaga luces interiores                                 |
 
 Lo tienes que hacer así:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCv2j25rIQxh6pHjMM4n4AXttDDetQPL93qMrYfQO2p-BVC6tSzeRVgU7nVq4_pXEnLedrvF7LTM4V/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+##3.7.3 Conexión eléctrica
+
+* Conectaremos Vcc y GND del HC06 igual que antes en la placa protoboard *sí ya sé que casi no queda sitio, es el último, lo prometo*
+* TX de HC06 al pin D11
+* RX de HC06 al pin D12
+
+##3.7.4 Vídeo
