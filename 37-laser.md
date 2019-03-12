@@ -8,7 +8,9 @@ Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
 * Si desactivo la alarma
     * La alarma se apaga si se ha disparado
     * El laser de apaga.
-    
+
+![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/assets/2018-02-08%2014_08_51-Documento2%20-%20Microsoft%20Word.png)
+            
 ##3.6.2 Maqueta
 
 En este caso **hay que tener cuidado con la fijación del laser y el LDR para que apunte al LDR** y otra cuestión son los cables: al instalarse fuera de la casa hay que utilizar cables largos o añadir dos M-H consecutivos.
