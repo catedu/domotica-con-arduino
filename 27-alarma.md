@@ -67,6 +67,10 @@ Ya lo comentamos en desventajas en el capítulo [2.1 Programando con mBlock](/21
 ##2.7.4 Video
 {% youtube %}https://youtu.be/RB7K16FhHlg{% endyoutube%}
 ##2.7.5 Solución
+
+El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
+
+
 Haremos programación con bloques, este es el programa principal:
 
 ![](/assets/alarma1.jpg)
