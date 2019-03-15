@@ -51,6 +51,8 @@ Es el mismo mostrado en [2.4 APERTURA DE LA PUERTA](/24-apertura-puerta.md), per
 
 ![](/assets/macho-macho.jpg)
 
+>Nota: Sí, ya sé que conectar el **LED DIRECTAMENTE EN D13** no es una buena práctica, pero internamente Arduino tiene unas resistencias en cadad entrada/salida de 30k que lo puede aguangar, o sea, no es lo correcto pero no pasa nada (y como es muy cómodo, y necesitamos espacio, optamos por lo práctico)
+
 ##3.3.4 Video
 
 {% youtube %}https://youtu.be/uHrZMTJPyRQ{% endyoutube%}
