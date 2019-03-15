@@ -27,6 +27,25 @@ Mientras que en código ya es otra cosa, [mira esta página](https://catedu.gitb
 
 %/accordion%
 
+%accordion%Por que elegimos este sensor%accordion%
+##2.7.1.2 POR QUÉ ELEGIMOS ESTE SENSOR DISTANCIA POR ULTRASONIDOS
+
+Este sensor es muy preciso y direccional, su código en mBlock es muy sencillo:
+
+![](/assets/ordenultrasonico.jpg)
+
+En código este sensor implica mucho más código, [lo puedes ver aquí](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_7_medicin_de_la_distancia.html), por eso en el apartado [3.7 LASER](/37-laser.md) utilizaremos otra forma de hacer una alarma, con un láser y además un sensor de llama en [3.6 FUEGO](/36-fuego.md).
+
+Podriamos usar uno más profesional, por ejemplo [DETECTOR DE MOVIMIENTO CON ARDUINO Y SENSOR PIR](https://www.luisllamas.es/detector-de-movimiento-con-arduino-y-sensor-pir/), pero su ángulo de sensibilidad es tan abierto que todo el rato se dispar. (un rollo si se utiliza en clase).
+
+ 
+
+
+
+%/accordion%
+
+
+
 ##2.7.2 Objetivo
 
 * Si se pulsa el botón de activación
