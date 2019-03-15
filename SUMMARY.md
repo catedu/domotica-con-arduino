@@ -1,6 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
+* [2.7 ALARMA](27-alarma.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -27,7 +28,6 @@
 * [3.6 FUEGO](36-fuego.md)
 * [3.7 LASER](37-laser.md)
 * [3.8 BLUETOOTH](37-bluetooth.md)
-
 
 ## 4. Para saber más...
 
