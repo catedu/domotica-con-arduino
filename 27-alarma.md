@@ -16,17 +16,6 @@ Si quieres saber más de este sensor mira esta página de [Luis Llamas.](https:/
 %/accordion%
 
 
-%accordion%Por qué elegimos este sensor%accordion%
-
-En *mBlock* ya lo hace esta instrucción por eso nos gusta este sensor por la sencillez de programación y por la precisión:
-
-![](/assets/ordenultrasonico.jpg)
-
-Mientras que en código ya es otra cosa, [mira esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_7_medicin_de_la_distancia.html).
-
-
-%/accordion%
-
 %accordion%Por que elegimos este sensor%accordion%
 ##2.7.1.2 POR QUÉ ELEGIMOS ESTE SENSOR DISTANCIA POR ULTRASONIDOS
 
