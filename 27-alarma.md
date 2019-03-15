@@ -2,6 +2,27 @@
 ##2.7.1 Conocimientos previos
 %accordion%Sensor distancia por ultrasonidos%accordion%
 ##2.7.1.1 SENSOR DISTANCIA POR ULTRASONIDOS
+![](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/img/Captura_de_pantalla_2015-04-01_a_las_22.48.19.png)
+
+Este sensor mide las distancias utilizando el eco:
+
+* Un *ojo* marcado con la T es un altavoz: Emite un sonido ultrasónico fuera de lo audible
+* El otro *ojo* marcado con una R es un micrófono que detecta el pulso emitido por T.
+
+Por software hay que calcular la distancia utilizando la fórmula v=e/t donde v es la velocidad del sonido.
+
+Si quieres saber más de este sensor mira esta página de [Luis Llamas.](https://www.luisllamas.es/medir-distancia-con-arduino-y-sensor-de-ultrasonidos-hc-sr04/)
+
+%/accordion%
+
+
+%accordion%Por qué elegimos este sensor%accordion%
+
+En *mBlock* ya lo hace esta instrucción por eso nos gusta este sensor por la sencillez de programación y por la precisión:
+
+![](/assets/ordenultrasonico.jpg)
+
+Mientras que en código ya es otra cosa, [mira esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_7_medicin_de_la_distancia.html).
 
 
 %/accordion%
