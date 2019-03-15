@@ -4,8 +4,8 @@
 
 ## 1. Fundamentos Domótica con Arduino
 
-* [1.1.- ¿Qué es la Domótica con Arduino?](que-es-la-domotica-con-arduino.md)
-* [1.2.- ¿Qué tengo que saber sobre Arduino?](12-que-tengo-que-saber-para-hacer-este-curso.md)
+* [1.1 ¿Qué es la Domótica con Arduino?](que-es-la-domotica-con-arduino.md)
+* [1.2 ¿Qué tengo que saber sobre Arduino?](12-que-tengo-que-saber-para-hacer-este-curso.md)
 * [1.3 Kit de préstamo de CATEDU](13-kit-de-prestamo-de-catedu.md)
 
 ## 2 Programación en bloques mBlock
@@ -20,7 +20,7 @@
 
 ## 3 Programación en código
 
-* [3.1.- Programando en código](31-programando-en-codigo.md)
+* [3.1 Entorno de programación](31-programando-en-codigo.md)
 * [3.2 Maqueta](32-maqueta.md)
 * [3.3 APERTURA DE PUERTA](32-apertura-de-puerta.md)
 * [3.4 JOYSTICK](34-joystick.md)
