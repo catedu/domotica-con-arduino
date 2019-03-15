@@ -1,7 +1,6 @@
 # Summary
 
 * [Introducción](README.md)
-* [2.7 ALARMA](27-alarma.md)
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -17,6 +16,7 @@
 * [2.4 APERTURA PUERTA](24-apertura-puerta.md)
 * [2.5 ALARMA AGUA](25-alarma-agua.md)
 * [2.6 JOYSTICK](26-joystick.md)
+* [2.7 ALARMA](27-alarma.md)
 
 ## 3 Programación en código
 
