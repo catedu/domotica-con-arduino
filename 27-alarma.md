@@ -9,6 +9,8 @@ Este sensor mide las distancias utilizando el eco:
 * Un *ojo* marcado con la T es un altavoz: Emite un sonido ultrasónico fuera de lo audible
 * El otro *ojo* marcado con una R es un micrófono que detecta el pulso emitido por T.
 
+![](http://aularagon.catedu.es/materialesaularagon2013/arduino/M1/sr04.jpg)
+
 Por software hay que calcular la distancia utilizando la fórmula v=e/t donde v es la velocidad del sonido.
 
 Si quieres saber más de este sensor mira esta página de [Luis Llamas.](https://www.luisllamas.es/medir-distancia-con-arduino-y-sensor-de-ultrasonidos-hc-sr04/)
