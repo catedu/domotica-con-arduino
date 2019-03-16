@@ -48,7 +48,11 @@ Al ser un componente analógico lo conectaremos en las entradas analógicas:
 ##2.6.5 Solución
 El programa lo puedes descargar [aquí](https://drive.google.com/open?id=1bV5VehaV7vf1eMwBAjru-LZ0Wh9E75Wq)
 
-Se ha creado un nuevo bloque JOYSTICK-RGB que lee los pines de entrada A2 y A3 (son valores desde -1024 hasta +1024 luego hay que convertirlos a 0-255) y esos valores ya normalizados transmitirlos a los pines digitales donde está conectado el pin rojo y azul del led RGB por PWM
+Se ha creado un nuevo bloque JOYSTICK-RGB que lee los pines de entrada A2 y A3.
+
+ Son valores desde 0 hasta +1024 pero la posición central del Joystick está en 500, luego tenemos que contar desde 500 hasta 1024, luego hay que convertirlos a 0-255
+ 
+ Esos valores ya normalizados transmitirlos a los pines digitales donde está conectado el pin rojo y azul del led RGB por PWM
 
 ![](/assets/JOYSTICKCODIGORGB.jpg)
 
