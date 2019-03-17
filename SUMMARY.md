@@ -26,7 +26,7 @@
 * [3.4 JOYSTICK](34-joystick.md)
 * [3.5 ALARMA AGUA](35-alarma-agua.md)
 * [3.6 FUEGO](36-fuego.md)
-* [3.7 LASER](37-laser.md)
+* [3.7 LÁSER](37-laser.md)
 * [3.8 BLUETOOTH](37-bluetooth.md)
 
 ## 4. Para saber más...

@@ -1,4 +1,4 @@
-#3.7 ALARMA LASER
+#3.7 ALARMA LáSER
 ##3.7.1 Conocimientos previos
 El diodo láser es un elemento motivador, barato y fácil de usar con el Arduino pues se activa digitalmente:
 
