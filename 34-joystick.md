@@ -39,6 +39,8 @@ y las demás conexiones igual que antes:
 * A2 al EJEY JOYSTICK
 * A3 al SWITCH JOYSTICK
 
+>Nota: El microruptor del Joystick **es digital** luego lo apropiado es conectarlo en una entrada salida digital, pero como vamos escasos de entradas y salidas digitales (ya verés como esto se complica), lo trataremos como analógico.
+
 ![](/assets/maqueta-joyst2.jpg)
 
 ##3.4.4 Vídeo 
