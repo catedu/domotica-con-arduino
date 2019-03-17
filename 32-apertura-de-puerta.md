@@ -142,6 +142,3 @@ void CerrarPuerta(){
   }
 }
 ```cpp
-```cpp+lineNumbers:true
-codigo
-```
