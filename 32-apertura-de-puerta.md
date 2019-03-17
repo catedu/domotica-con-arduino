@@ -141,4 +141,4 @@ void CerrarPuerta(){
     Serial.println("Puerta cerrada");
   }
 }
-```cpp
+```
