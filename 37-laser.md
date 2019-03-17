@@ -1,6 +1,6 @@
 #3.7 ALARMA LASER
 ##3.7.1 Conocimientos previos
-El diodo láser es un elemento motivador, barato y fácil de usar con el arduino pues se activa digitalmente:
+El diodo láser es un elemento motivador, barato y fácil de usar con el Arduino pues se activa digitalmente:
 
 ![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/assets/2017-12-25%2007_35_11-Encender%20un%20diodo%20l%C3%A1ser%20con%20Arduino.png)
 
@@ -10,8 +10,8 @@ Si quieres saber más de este componente, te recomendamos [esta página de Luis 
 
 Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
 
-* Si activo la alarma el laser tiene que encenderse
-    * Una vez activada si se corta el laser, por lo tanto el valor del LDR sube, la alarma se dispara.
+* Si activo la alarma el láser tiene que encenderse
+    * Una vez activada si se corta el láser, por lo tanto el valor del LDR sube, la alarma se dispara.
 * Si desactivo la alarma
     * La alarma se apaga si se ha disparado
     * El laser de apaga.
@@ -21,17 +21,17 @@ Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
           
 ##3.7.3 Maqueta
 
-En este caso **hay que tener cuidado con la fijación del laser y el LDR para que apunte al LDR** y otra cuestión son los cables: al instalarse fuera de la casa hay que utilizar cables largos o añadir dos M-H consecutivos.
+En este caso **hay que tener cuidado con la fijación del láser y el LDR para que apunte al LDR** y otra cuestión son los cables: al instalarse fuera de la casa hay que utilizar cables largos o añadir dos M-H consecutivos.
 
 * Hemos utilizado dos fijaciones con alambre el LDR para que quede fijo.
-* En el laser hemos fijado con una chincheta para inmobilizar el laser además de alambre
+* En el láser hemos fijado con una chincheta para fijar el láser además de alambre
 
 ![](/assets/laser.jpg)
 
 ##3.7.4 Conexiones eléctricas
 
-* La alimentación del Laser y el del LDR igual que en los casos anteriores
-* El control del LASER a la salida digital D10
+* La alimentación del láser y el del LDR igual que en los casos anteriores
+* El control del LÁSER a la salida digital D10
 * La lectura del LDR a la entrada analógica A0
 
 ##3.7.5 Vídeo
