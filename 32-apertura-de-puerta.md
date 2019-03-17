@@ -63,6 +63,10 @@ Es el mismo mostrado en [2.4 APERTURA DE LA PUERTA](/24-apertura-puerta.md), per
 
 
 ```cpp+lineNumbers:true
+
+///////////////////////////////////////LIBRERIAS
+#include <Servo.h> 
+
 ///////////////////////////////////////ENTRADAS SALIDAS DIGITALES ///////
 // 0 ocupado por el puerto serie ordenador-arduino
 // 1 ocupado por el puerto serie ordenador-arduino
