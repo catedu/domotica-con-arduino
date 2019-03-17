@@ -18,9 +18,8 @@ Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
 
 ![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/assets/2018-02-08%2014_08_51-Documento2%20-%20Microsoft%20Word.png)
 
-
-            
-##3.6.2 Maqueta
+          
+##3.7.3 Maqueta
 
 En este caso **hay que tener cuidado con la fijación del laser y el LDR para que apunte al LDR** y otra cuestión son los cables: al instalarse fuera de la casa hay que utilizar cables largos o añadir dos M-H consecutivos.
 
@@ -29,17 +28,17 @@ En este caso **hay que tener cuidado con la fijación del laser y el LDR para qu
 
 ![](/assets/laser.jpg)
 
-##3.6.3 Conexiones eléctricas
+##3.7.4 Conexiones eléctricas
 
 * La alimentación del Laser y el del LDR igual que en los casos anteriores
 * El control del LASER a la salida digital D10
 * La lectura del LDR a la entrada analógica A0
 
-##3.6.4 Vídeo
+##3.7.5 Vídeo
 
 {% youtube %}https://youtu.be/pmb_weSjZ04{% endyoutube%}
 
-##3.6.5 Código
+##3.7.6 Código
 
 <pre>
 <font color="#434f54">&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;&#47;LIBRERIAS</font>
