@@ -1,5 +1,12 @@
-#3.6 ALARMA LASER
-##3.6.1 Objetivos
+#3.7 ALARMA LASER
+##3.7.1 Conocimientos previos
+El diodo láser es un elemento motivador, barato y fácil de usar con el arduino pues se activa digitalmente:
+
+![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/assets/2017-12-25%2007_35_11-Encender%20un%20diodo%20l%C3%A1ser%20con%20Arduino.png)
+
+Si quieres saber más de este componente, te recomendamos [esta página de Luis Llamas](https://www.luisllamas.es/diodo-laser-arduino/). Si tienes que comprar uno, te recomendamos que no sea superior a 5mW, pues puede dañar permanentemente la retina del ojo [[+info](https://cuidatuvista.com/punteros-laser-juguetes-ojos/)]. El modelo que te proponemos es de 1mW, no obstante, **EVITA SIEMPRE QUE EL LÁSER APUNTE A LOS OJOS** especialmente con niños.
+
+##3.7.1 Objetivos
 
 Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
 
@@ -10,6 +17,8 @@ Es el mismo objetivo que el la [alarma FUEGO](/36-fuego.md) pero que esta vez:
     * El laser de apaga.
 
 ![](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/assets/2018-02-08%2014_08_51-Documento2%20-%20Microsoft%20Word.png)
+
+
             
 ##3.6.2 Maqueta
 
