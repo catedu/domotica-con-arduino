@@ -82,8 +82,8 @@ const int LED = 13;
 Servo myservo;                  //objeto servo
 
 ///////////////////////////////////////VARIABLES
-const int ABIERTO =0;               //ángulo abierto puerta
-const int CERRADO =75;              //ángulo cerrado puerta, se ha modificado con respecto a 90 que es cierre total pues tropezaba con la pared
+const int ABIERTO =0;               //abierto puerta
+const int CERRADO =75;              //cerrado puerta, se ha modificado con respecto al cierre total pues tropezaba con la pared
 bool PUERTAABIERTA;                 //guardará si está abierto o no
 /////////////////////////////////////FUNCIONES
 void CerrarPuerta();
