@@ -1,7 +1,5 @@
 # Summary
-
 * [Introducción](README.md)
-
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -36,5 +34,6 @@
 * [4.2 Grupo Robótica Educativa](grupo-robotica-educativa.md)
 * [4.3 Muro](43-muro.md)
 
+* [Créditos](creditos.md)
 
 
