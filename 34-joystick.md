@@ -1,5 +1,7 @@
 #3.4 JOYSTICK
+
 ##3.4.1 Objetivos
+
 Ahora vamos a utilizar el Joystick para dos intenciones:
 
 * Aprovechando el SWITCH central:
@@ -12,6 +14,7 @@ Ahora vamos a utilizar el Joystick para dos intenciones:
  * Un valor intermedio es un valor de los dos
  
 ##3.4.2 Maqueta
+
 Vamos ampliando nuestra casa domótica con la luz RGB y el Joystick:
 
 1. Joystick fijado en la pared
@@ -39,7 +42,9 @@ y las demás conexiones igual que antes:
 * A2 al EJEY JOYSTICK
 * A3 al SWITCH JOYSTICK
 
->Nota: El microruptor del Joystick **es digital** luego lo apropiado es conectarlo en una entrada salida digital, pero como vamos escasos de entradas y salidas digitales (ya verés como esto se complica), lo trataremos como analógico.
+> **info**
+>
+> **Nota**: El microruptor del Joystick **es digital** luego lo apropiado es conectarlo en una entrada salida digital, pero como vamos escasos de entradas y salidas digitales (ya verés como esto se complica), lo trataremos como analógico.
 
 ![](/assets/maqueta-joyst2.jpg)
 
