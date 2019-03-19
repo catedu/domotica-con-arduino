@@ -1,7 +1,7 @@
 # Summary
 
 * [Introducción](README.md)
-* [4.3 Muro](43-muro.md)
+
 
 ## 1. Fundamentos Domótica con Arduino
 
@@ -34,4 +34,7 @@
 
 * [4.1- Pensamiento computacional](chapter1.md)
 * [4.2 Grupo Robótica Educativa](grupo-robotica-educativa.md)
+* [4.3 Muro](43-muro.md)
+
+
 
