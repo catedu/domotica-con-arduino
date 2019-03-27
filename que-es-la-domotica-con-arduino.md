@@ -31,7 +31,7 @@ Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes
   * Con el LDR y el láser puedes hacer [otro tipo de alarma con piezas de lego](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/53-laser.html)
   * Con el sensor de ultrasonidos y el led RGB puedes hacer un [semáforo-distancia](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/54-ultrasonidos.html)
   * Con el sensor de ultrasonidos, el servo y el diodo RGB puedes hacer un [*tractor entrando en el corral*](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/56-tractor-entrando-al-corral.html)
-  * Más opciones, o si encuentras alguno, lo puedes ver en el [muro que te proponemos](/43-muro.md).
+  * Más opciones, o si encuentras alguno, lo puedes colgar tú mismo en el [muro que te proponemos](/43-muro.md).
 
 ##1.1.3 ¿Tengo que llegar hasta el final?
 
