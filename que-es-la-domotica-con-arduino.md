@@ -23,7 +23,15 @@ Mira el siguiente vídeo para que veas qué es lo que se va a hacer en este curs
 
 ##1.1.2 ¿El objetivo es crear la casa?
 No, el objetivo es aprender las diferentes posibilidades que tiene el Arduino utilizando módulos de bajo coste. La casa domótica es la excusa para llegar a este objetivo.
-Luego puedes utilizar estos materiales para hacer muchas cosas direntes, esto se ve en el [muro que te proponemos](/43-muro.md).
+
+Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes, por ejemplo:
+
+  * Con el sensor de humedad y el servo puedes hacer [un riega macetas](https://youtu.be/xm27jGEysfI)
+  * Con el sensor de ultrasonidos y el buzzer puedes hacer un [piano invisible](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/piano_invisible_con_ultrasonidos.html)
+  * Con el LDR y el láser puedes hacer [otro tipo de alarma con piezas de lego](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/53-laser.html)
+  * Con el sensor de ultrasonidos y el led RGB puedes hacer un [semáforo-distancia](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/54-ultrasonidos.html)
+  * Con el sensor de ultrasonidos, el servo y el diodo RGB puedes hacer un [*tractor entrando en el corral*](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/56-tractor-entrando-al-corral.html)
+  * Más opciones, o si encuentras alguno, lo puedes ver en el [muro que te proponemos](/43-muro.md).
 
 ##1.1.3 ¿Tengo que llegar hasta el final?
 
