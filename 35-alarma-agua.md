@@ -181,3 +181,46 @@ Ampliamos con el sensor de agua en una pared
 <font color="#000000">}</font>
 
 </pre>
+
+##3.5.8 Riego automático
+####Explicación
+
+#####Vídeo
+{% youtube %}https://youtu.be/xm27jGEysfI{% endyoutube%}
+
+#####Código
+#include <Servo.h>
+
+////////////////////////////////////// OBJETOS
+Servo myservo;                  //objeto servo
+int humedad;
+
+
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(13,OUTPUT);
+  pinMode(9,OUTPUT) ;
+  pinMode(11,INPUT) ;
+  myservo.attach(13); 
+ Serial.begin (9600);
+}
+
+void loop() {
+  int i;
+  // put your main code here, to run repeatedly:
+  humedad=analogRead(0);
+  Serial.println(humedad);
+  if (humedad<300){
+     for (i=0;i<90;i++){
+       myservo.write(i);
+       delay(100);
+   }
+   for (i=90;i>0;i--){
+    myservo.write(i);
+    delay(100);
+   }
+  
+  }
+    
+}
