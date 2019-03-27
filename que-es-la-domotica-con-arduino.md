@@ -33,9 +33,9 @@ Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes
   * Con el sensor de ultrasonidos, el servo y el diodo RGB puedes hacer un [*tractor entrando en el corral*](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/56-tractor-entrando-al-corral.html)
   * Más opciones, o si encuentras alguno, lo puedes colgar tú mismo en el [muro que te proponemos](/43-muro.md).
 
-##1.1.3 ¿Tengo que llegar hasta el final?
+##1.1.3 ¿Tengo que montarlo todo?
 
-No, puedes parar cuando quieras, es una propuesta que puedes quedarte por ejemplo en la apertura de la puerta, o en el interruptor crepuscular..... puedes ir haciendo los retos por separado, desmontando los anteriores si te asusta tanto cableado.
+No, no.. es flexible: si te asusta tanto cable, puedes ir haciendo los retos por separado, desmontando los anteriores y así queda más limpia la maqueta.
 
 ##1.1.4 ¿Que es eso de una Shield?
 Una Shield es una placa electrónica para reducir la electrónica, echa un vistazo [a esta página](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html).
