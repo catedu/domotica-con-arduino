@@ -35,9 +35,7 @@ Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes
 
 ##1.1.3 ¿Tengo que montarlo todo?
 
-No, no.. es flexible: si te asusta tanto cable, puedes ir haciendo los retos por separado, desmontando los anteriores y así queda más limpia la maqueta, o sin maqueta, lo que quieras.
-
-
+No, no.. es flexible: si te asusta tanto cable, puedes ir haciendo los retos por separado, desmontando los anteriores y así queda más limpia la maqueta.
 
 ##1.1.4 ¿Que es eso de una Shield?
 Una Shield , dicho pronto, mal pero claro **es una placa electrónica para reducir la electrónica**, echa un vistazo [a esta página](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html).
