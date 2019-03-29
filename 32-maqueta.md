@@ -10,8 +10,12 @@ Para ir poniendo los componentes lo más fácil y reciclable es perforar, con un
 
 ![](/assets/detalleperforar.jpg)
 
-Y atarlo con alámbre plastificado típicos de las bolsas de pan de molde:
+Y atarlo con alambre plastificado típicos de las bolsas de pan de molde:
 
 ![](/assets/alambre.jpg)
+
+El soporte del servomotor con la puerta es difícil, una opción es pegarlo con cola.
+
+![](/assets/cola.jpg)
 
 Tanto el cartón piedra como el alambre se puede conseguir en cualquier bazar a precios muy económicos.
