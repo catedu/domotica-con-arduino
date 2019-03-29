@@ -37,6 +37,14 @@ Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes
 
 No, no.. es flexible: si te asusta tanto cable, puedes ir haciendo los retos por separado, desmontando los anteriores y así queda más limpia la maqueta.
 
+##1.1.3 ¿Tengo que montar la maqueta?
+
+Tampoco es necesario, de hecho, en el módulo 2 Programación en bloques las fotos y vídeos son sin montar la casa domótica, pero lo puedes hacer.
+
+![](/assets/muchocableado.jpg)
+
+En el módulo 3 con código se explica cómo montar la maqueta, y los vídeos y fotos son con la casa domótica.
+
 ##1.1.4 ¿Que es eso de una Shield?
 Una Shield , dicho pronto, mal pero claro **es una placa electrónica para reducir la electrónica**, echa un vistazo [a esta página](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html).
 
