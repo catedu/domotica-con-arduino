@@ -37,6 +37,10 @@ Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes
 
 No, no.. es flexible: si te asusta tanto cable, puedes ir haciendo los retos por separado, desmontando los anteriores y así queda más limpia la maqueta.
 
+Pero ánimo, no seas un gallina !!
+
+<iframe src="https://giphy.com/embed/xjUGCnG53aCBbfokdS" width="480" height="337" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maker-gallina-xjUGCnG53aCBbfokdS">via GIPHY</a></p>
+
 ##1.1.3 ¿Tengo que montar la maqueta?
 
 Tampoco es necesario, de hecho, en el módulo 2 Programación en bloques las fotos y vídeos son sin montar la casa domótica, pero lo puedes hacer.
