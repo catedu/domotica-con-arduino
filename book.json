@@ -1,31 +1,45 @@
 {
-	"plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
-	"language": "es",
-	"variables": {
-		"title": "Domótica con Arduino",
-		"authors": [
-			"Javier Quintana Peiró"
-		],
-		"collaborators": [
-			{ "name": "_______", "edited": "___________" }
-		]
-	},
-	"pluginsConfig": {
-		"localized-footer": {
-			"hline": true,
-			"filename": "./FOOTER.md"
-		},
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/domotica-con-arduino/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "domotica-con-arduino"
-        }
-
-	}
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "image-captions",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Domótica con Arduino",
+    "authors": [
+      "Javier Quintana Peiró"
+    ],
+    "collaborators": [
+      {
+        "name": "_______",
+        "edited": "___________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/domotica-con-arduino/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "domotica-con-arduino"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
 }
