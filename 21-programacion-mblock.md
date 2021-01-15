@@ -1,6 +1,6 @@
 #2.1 Programación mBlock
 
-Es un programa especializado en el manejo de los robots de Makeblock ([ver cursos de mBot en Aularagon](https://catedu.gitbooks.io/robotica/content/)), estos robots están basados en Arduino por lo tanto este programa también puede programarlos
+Es un programa especializado en el manejo de los robots de Makeblock ([ver cursos de mBot en Aularagon](https://catedu.github.io/robotica/)), estos robots están basados en Arduino por lo tanto este programa también puede programarlos
 
 ![](http://66.media.tumblr.com/d2949cd218d9678d77cdf61087beb616/tumblr_inline_nj1lt0pIeA1qmn7ka.jpg)
 

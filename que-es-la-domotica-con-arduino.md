@@ -2,15 +2,15 @@
 
 Arduino es una placa electrónica abierta para la creación de prototipos, muy flexible por lo tanto lo tenemos en varias propuestas de nuestra hoja de ruta de [Pensamiento computacional](/chapter1.md)
 
-Si te fijas en [esa hoja de ruta,](https://catedu.gitbooks.io/robotica/content/) se puede clasificar los cursos en:
+Si te fijas en [esa hoja de ruta,](https://catedu.github.io/robotica/) se puede clasificar los cursos en:
 
 * Utilización del Arduino con una **programación gráfica con bloques** (nivel Primaria):
 
-    * [Nuestra propuesta con la Shield **Echidna**](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/)
-    * [Arduino con mBlock, sin Shield](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/)
+    * [Nuestra propuesta con la Shield **Echidna**](https://catedu.github.io/programa-arduino-con-echidna/)
+    * [Arduino con mBlock, sin Shield](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/)
    
 * Utilización del Arduino sin una programación en **código** (nivel Secundaria-Bach-FP)
-    * [Arduino con código, con la Shield **Edubásica** o sin Shield](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)
+    * [Arduino con código, con la Shield **Edubásica** o sin Shield](https://catedu.github.io/programa-arduino-mediante-codigo/)
     
 Este curso encaja en los dos, con bloques y con código para poderse utilizar tanto en primaria como hasta niveles de bachillerato. Este curso utiliza una pequeña Shield pero es innecesaria si utilizas una placa Protoboard normal, ver 1.1.4.
 
@@ -27,10 +27,10 @@ No, el objetivo es aprender las diferentes posibilidades que tiene el Arduino ut
 Luego puedes utilizar estos mismos materiales para hacer muchas cosas diferentes, por ejemplo:
 
   * Con el sensor de humedad y el servo puedes hacer [un riega macetas](https://youtu.be/xm27jGEysfI)
-  * Con el sensor de ultrasonidos y el buzzer puedes hacer un [piano invisible](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-arduino/content/piano_invisible_con_ultrasonidos.html)
-  * Con el LDR y el láser puedes hacer [otro tipo de alarma con piezas de lego](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/53-laser.html)
-  * Con el sensor de ultrasonidos y el led RGB puedes hacer un [semáforo-distancia](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/54-ultrasonidos.html)
-  * Con el sensor de ultrasonidos, el servo y el diodo RGB puedes hacer un [*tractor entrando en el corral*](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/5_extensiones/56-tractor-entrando-al-corral.html)
+  * Con el sensor de ultrasonidos y el buzzer puedes hacer un [piano invisible](https://catedu.github.io/ensena-pensamiento-computacional-con-arduino/piano_invisible_con_ultrasonidos.html)
+  * Con el LDR y el láser puedes hacer [otro tipo de alarma con piezas de lego](https://catedu.github.io/programa-arduino-con-echidna/5_extensiones/53-laser.html)
+  * Con el sensor de ultrasonidos y el led RGB puedes hacer un [semáforo-distancia](https://catedu.github.io/programa-arduino-con-echidna/5_extensiones/54-ultrasonidos.html)
+  * Con el sensor de ultrasonidos, el servo y el diodo RGB puedes hacer un [*tractor entrando en el corral*](https://catedu.github.io/programa-arduino-con-echidna/5_extensiones/56-tractor-entrando-al-corral.html)
   * Más opciones, o si encuentras alguno, lo puedes colgar tú mismo en el [muro que te proponemos](/43-muro.md).
 
 ##1.1.3 ¿Tengo que montarlo todo?
@@ -50,7 +50,7 @@ Tampoco es necesario, de hecho, en el módulo 2 Programación en bloques las fot
 En el módulo 3 con código se explica cómo montar la maqueta, y los vídeos y fotos son con la casa domótica.
 
 ##1.1.4 ¿Que es eso de una Shield?
-Una Shield , dicho pronto, mal pero claro **es una placa electrónica para reducir la electrónica**, echa un vistazo [a esta página](https://catedu.gitbooks.io/programa-arduino-con-echidna/content/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html).
+Una Shield , dicho pronto, mal pero claro **es una placa electrónica para reducir la electrónica**, echa un vistazo [a esta página](https://catedu.github.io/programa-arduino-con-echidna/tema_1_como_utilizar_echidna/11_que_es_echidnashield.html).
 
 ####Sin Shield:
 

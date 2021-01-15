@@ -19,9 +19,9 @@ Como Arduino no tiene valores de salida analógicos, utilizaremos los pines PWM 
 
 De esta manera la luz Roja y Azul serán variables pudiendo crear el ambiente que queramos.
  
-**¿no sabes lo que es PWM (~)? ** eso es que no te has leído [esto](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/un_caso_especial_seales_pwm.html).
+**¿no sabes lo que es PWM (~)? ** eso es que no te has leído [esto](https://catedu.github.io/programa-arduino-mediante-codigo/un_caso_especial_seales_pwm.html).
 
-![](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/img/Captura_de_pantalla_2015-05-19_a_las_14.18.40.png)
+![](https://catedu.github.io/programa-arduino-mediante-codigo/img/Captura_de_pantalla_2015-05-19_a_las_14.18.40.png)
 
 %/accordion%
 

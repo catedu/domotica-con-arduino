@@ -4,7 +4,7 @@
 
 %accordion%SERVO%accordion%
 ###2.4.1.1 SERVOMOTORES
-Visita [esta página](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_1_testea_tu_servo.html) para que veas dos vídeos y entiendas la diferencia entre:
+Visita [esta página](https://catedu.github.io/programa-arduino-mediante-codigo/montaje_1_testea_tu_servo.html) para que veas dos vídeos y entiendas la diferencia entre:
 * Servos convencionales
 * Servos de rotación contínua
 

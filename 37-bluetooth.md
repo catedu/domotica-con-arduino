@@ -1,17 +1,17 @@
 #3.8 BLUETOOTH
 ##3.8.1 Conocimientos previos
-Tienes que visitar las siguientes páginas de la [Unidad 4 Comunicaciones con Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/arduino_y_mvil.html):
+Tienes que visitar las siguientes páginas de la [Unidad 4 Comunicaciones con Arduino](https://catedu.github.io/programa-arduino-mediante-codigo/arduino_y_mvil.html):
 
-* ¿Qué es el [HC-06](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/mdulo_bluetooth.html)?
-* [La APP](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/la_app.html) que tienes que intalarte
+* ¿Qué es el [HC-06](https://catedu.github.io/programa-arduino-mediante-codigo/mdulo_bluetooth.html)?
+* [La APP](https://catedu.github.io/programa-arduino-mediante-codigo/la_app.html) que tienes que intalarte
     
-* [Vincular tu móvil con el HC-06](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/vincular_mvil.html)
+* [Vincular tu móvil con el HC-06](https://catedu.github.io/programa-arduino-mediante-codigo/vincular_mvil.html)
 
 > Aprende a configurar los botones de la APP !! diapositiva 12 pero en vez de Up, Down, Right y Left los que se establezcan en 3.8.2 
 
 <iframe width="100%" height="569" src="https://docs.google.com/presentation/d/e/2PACX-1vT0vG1z61MuZXKmdiw4ga7z15FlQfeussqDNYzMauJSZUU2G2NlL7M-JjXb4PFT4YTigj9Yal8PzHmR/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
 
-* [Configuración avanzada](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/configuracion_avanzada.html) pues **nosotros conectaremos el HC-06 en los pines digitales D11 y D12** y no en D0 y D1 pues están ocupados con la comunicación del ordenador.
+* [Configuración avanzada](https://catedu.github.io/programa-arduino-mediante-codigo/configuracion_avanzada.html) pues **nosotros conectaremos el HC-06 en los pines digitales D11 y D12** y no en D0 y D1 pues están ocupados con la comunicación del ordenador.
 
 ##3.8.2 Objetivos
 

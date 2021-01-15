@@ -2,7 +2,7 @@
 ##2.7.1 Conocimientos previos
 %accordion%Sensor distancia por ultrasonidos%accordion%
 ##2.7.1.1 SENSOR DISTANCIA POR ULTRASONIDOS
-![](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/img/Captura_de_pantalla_2015-04-01_a_las_22.48.19.png)
+![](https://catedu.github.io/programa-arduino-mediante-codigo/img/Captura_de_pantalla_2015-04-01_a_las_22.48.19.png)
 
 Este sensor mide las distancias utilizando el eco:
 
@@ -26,7 +26,7 @@ Este sensor es muy preciso y direccional, su código en mBlock es muy sencillo:
 ![](/assets/ordenultrasonico.jpg)
 
 ###Utilización en código.
-En código este sensor implica mucho más código, [lo puedes ver aquí](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/montaje_7_medicin_de_la_distancia.html), por eso en el apartado [3.7 LASER](/37-laser.md) utilizaremos otra forma de hacer una alarma, con un láser y además un sensor de llama en [3.6 FUEGO](/36-fuego.md).
+En código este sensor implica mucho más código, [lo puedes ver aquí](https://catedu.github.io/programa-arduino-mediante-codigo/montaje_7_medicin_de_la_distancia.html), por eso en el apartado [3.7 LASER](/37-laser.md) utilizaremos otra forma de hacer una alarma, con un láser y además un sensor de llama en [3.6 FUEGO](/36-fuego.md).
 
 ###Alternativas
 Podriamos usar uno más profesional, por ejemplo [DETECTOR DE MOVIMIENTO CON ARDUINO Y SENSOR PIR](https://www.luisllamas.es/detector-de-movimiento-con-arduino-y-sensor-pir/), pero su ángulo de sensibilidad es tan abierto que todo el rato se dispara. (un rollo si se utiliza en clase).

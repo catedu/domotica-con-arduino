@@ -6,9 +6,9 @@ Utilizaremos las posibilidades del **Arduino **para crear esta maqueta de domót
 
 ##Conocimientos previos
 
-Para la parte de programación en bloques, **ES NECESARIO QUE SEPAS LOS CONCEPTOS BÁSICOS DE SCRATCH**: [Scratch](https://catedu.gitbooks.io/ensena-pensamiento-computacional-con-scratch/content/)
+Para la parte de programación en bloques, **ES NECESARIO QUE SEPAS LOS CONCEPTOS BÁSICOS DE SCRATCH**: [Scratch](https://catedu.github.io/ensena-pensamiento-computacional-con-scratch/)
 
-Para la parte de programación en código **ES NECESARIO QUE SEPAS LOS COMANDOS BÁSICOS DE : [Código Arduino](https://catedu.gitbooks.io/programa-arduino-mediante-codigo/content/)**.
+Para la parte de programación en código **ES NECESARIO QUE SEPAS LOS COMANDOS BÁSICOS DE : [Código Arduino](https://catedu.github.io/programa-arduino-mediante-codigo/)**.
 
 No obstante, si no lo tienes reciente, te recordaremos lo esencial.
 
